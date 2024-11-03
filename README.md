@@ -2,9 +2,9 @@
 Computer Networking
 
 ### Education
-Schooling:
+- Schooling:
 Bal Bharati public School, Navi Mumbai
-College:
+- College:
 SRM INSTITUITE OF SCIENCE AND TECHNOLOGY, KATTANKULATHUR, CHENNAI
 
 ### About Me
@@ -13,18 +13,18 @@ Hi I am Kinjal Singh- a student of Computer Science Engineering with specializat
 
 ### Skills
 Data Structure: 
--Arrays
--Linked Lists 
--Stacks, Queues 
--Tress(Binary, AVL, etc.) 
--Graphs 
--Heaps 
--Hash Tables 
+- Arrays
+- Linked Lists 
+- Stacks, Queues 
+- Tress(Binary, AVL, etc.) 
+- Graphs 
+- Heaps 
+- Hash Tables 
 Algorithms: 
--Sorting(Merge Sort, Quick Sort, etc.) 
--Searching (Binary Search, Depth-First Search, Breadth-First Search) 
--Dynamic Programming Greedy Algorithms 
--Backtracking
+- Sorting(Merge Sort, Quick Sort, etc.) 
+- Searching (Binary Search, Depth-First Search, Breadth-First Search) 
+- Dynamic Programming Greedy Algorithms 
+- Backtracking
 Languages: 
 C, C++, Java, Python, HTML, CSS, My SQL
 Development tools: Git, Visual studio code
@@ -35,6 +35,6 @@ Achievements: 3-Star rating in Problem Solving, completed 20+ DSA challenges
 Achievements: 75% in CodeChef
 
 ### Contact
-Email Id: kinjalllsingh1006@gmail.com
-Linkedin: linkedin.com/in/kinjal-singh-022b482b7
-Contact: +91 7777016368
+- Email Id: kinjalllsingh1006@gmail.com
+- Linkedin: linkedin.com/in/kinjal-singh-022b482b7
+- Contact: +91 7777016368
