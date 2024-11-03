@@ -2,7 +2,10 @@
 Computer Networking
 
 ### Education
-B.Tech
+Schooling:
+Bal Bharati public School, Navi Mumbai
+College:
+SRM INSTITUITE OF SCIENCE AND TECHNOLOGY, KATTANKULATHUR, CHENNAI
 
 ### About Me
 Welcome to my portfolio!!
@@ -27,6 +30,11 @@ C, C++, Java, Python, HTML, CSS, My SQL
 Development tools: Git, Visual studio code
 
 ### HackerRank 
-Achievements: 3-Star rating in Problem Solving
+Achievements: 3-Star rating in Problem Solving, completed 20+ DSA challenges
 ### Online Coding Contest
 Achievements: 75% in CodeChef
+
+### Contact
+Email Id: kinjalllsingh1006@gmail.com
+Linkedin: linkedin.com/in/kinjal-singh-022b482b7
+Contact: +91 7777016368
